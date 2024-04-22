@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Shijie Wang, Jianlong Chang, Zhihui Wang, Haojie Li, Wanli Ouyang, Qi Tian'
 date: 2024-01-16
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10404027/'
 citation: 'Wang, Shijie, et al. "Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval." IEEE Transactions on Pattern Analysis and Machine Intelligence (2024).'
 ---
