@@ -18,7 +18,7 @@ Education
 
 Industrial Experience
 ======
-__<font size=5>Huawei Cloud • CV Research Intern • Advisor：Prof. Qi Tian, 2022.02-2024.01</font>__
+__<font size=4>Huawei Cloud • CV Research Intern • Advisor：Prof. Qi Tian, 2022.02-2024.01</font>__
 
 * __Image Retrieval with Prompt Tuning:__
 
@@ -31,7 +31,7 @@ __<font size=5>Huawei Cloud • CV Research Intern • Advisor：Prof. Qi Tian, 
 
 Exchange Experience
 ======
-__<font size=5>University of Sydney • Supervisor: Prof. Wanli Ouyang, 2019.05-2022.02</font>__
+__<font size=4>University of Sydney • Supervisor: Prof. Wanli Ouyang, 2019.05-2022.02</font>__
 
 * Research on fine-grained image classification and retrieval under the supervision of Prof. Wanli Ouyang
 * Published multiple top-tier papers resulting from his guidance, contributing to advancements in fine-grained filed
