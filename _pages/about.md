@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shijie Wang's Homepage!"
+title: "Welcome to Shijie Wang's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
