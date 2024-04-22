@@ -12,7 +12,7 @@ title                    : "王世杰"
 title_separator          : "-"
 name                     : &name "Shijie Wang"
 description              : &description "personal description"
-url                      : https://Pual2013.github.io
+url                      : "https://Pual2013.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Pual2013/Pual2013.github.io"
 
