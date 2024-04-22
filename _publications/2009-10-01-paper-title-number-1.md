@@ -3,7 +3,7 @@ title: "Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retr
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Shijie Wang, Jianlong Chang, Zhihui Wang, Haojie Li, Wanli Ouyang, Qi Tian'
-date: 2024-01
+date: 2024-01-16
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10404027/'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
