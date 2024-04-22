@@ -17,11 +17,11 @@ To know more about me at [Google Scholar](https://scholar.google.com/citations?u
 
 # News
 
-\[2024/01\] A paper has been accepted by TPAMI. CaRA for Zero-shot Fine-grained Image Retrieval
+__\[2024/01\]__ A paper has been accepted by __TPAMI__. CaRA for Zero-shot Fine-grained Image Retrieval
 
-\[2023/09\] A paper has been accepted by NeurIPS 2023. VAPNet for Open-set Fine-grained Image Retrieval
+__\[2023/09\]__ A paper has been accepted by __NeurIPS 2023__. VAPNet for Open-set Fine-grained Image Retrieval
 
-\[2023/07\] A paper has been accepted by IJCV. SRGN for Fine-grained Image Classification
+__\[2023/07\]__ A paper has been accepted by __IJCV__. SRGN for Fine-grained Image Classification
 
-\[2023/03\] A paper has been accepted by CVPR 2023. PLEor for Open-set Fine-grained Image Retrieval
+__\[2023/03\]__ A paper has been accepted by __CVPR 2023__. PLEor for Open-set Fine-grained Image Retrieval
 
