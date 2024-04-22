@@ -3,9 +3,9 @@ title: "Learning to Parameterize Visual Attributes for Open-set Fine-grained Ret
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Shijie Wang, Jianlong Chang, Haojie Li, Zhihui Wang, Wanli Ouyang, Qi Tian'
-date: 2024-02-17
-venue: 'Advances in Neural Information Processing Systems (NeurIPS), 2023'
-paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/cc19e4ffde5540ac3fcda240e6d975cb-Abstract-Conference.html'
+date: 2023-09-20
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
+paperurl: '[Paper Download](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cc19e4ffde5540ac3fcda240e6d975cb-Abstract-Conference.html)'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
