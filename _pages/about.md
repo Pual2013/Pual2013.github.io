@@ -21,7 +21,7 @@ To know more about me at [Google Scholar](https://scholar.google.com/citations?u
 
 \[2023/09\] A paper has been accepted by NeurIPS 2023. VAPNet for Open-set Fine-grained Image Retrieval
 
-\[2023\07\] A paper has been accepted by IJCV. SRGN for Fine-grained Image Classification
+\[2023/07\] A paper has been accepted by IJCV. SRGN for Fine-grained Image Classification
 
-\[2023\03\] A paper has been accepted by CVPR 2023. PLEor for Open-set Fine-grained Image Retrieval
+\[2023/03\] A paper has been accepted by CVPR 2023. PLEor for Open-set Fine-grained Image Retrieval
 
