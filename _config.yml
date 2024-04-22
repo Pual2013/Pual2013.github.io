@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "王世杰"
 title_separator          : "-"
 name                     : &name "Shijie Wang"
