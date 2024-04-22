@@ -51,7 +51,7 @@ __Selected Representative Publications__
 
 [4] __S Wang__, J Chang, H Li, Z Wang, W Ouyang and Q Tian. Learning to Parameterize Visual Attributes for Open-set Fine-grained Retrieval. Advances in Neural Information Processing Systems (NeurIPS), 2023 
 
-[5] S Wang, J Chang, Z Wang, H Li, W Ouyang and Q Tian. Fine-grained Retrieval Prompt Tuning. AAAI Conference on Artificial Intelligence (AAAI), 2023 (Oral)
+[5] __S Wang__, J Chang, Z Wang, H Li, W Ouyang and Q Tian. Fine-grained Retrieval Prompt Tuning. AAAI Conference on Artificial Intelligence (AAAI), 2023 (Oral)
 
 [6] __S Wang__, Z Wang, H Li and W Ouyang. Category-specific Nuance Exploration Network for Fine-grained Image Retrieval. AAAI Conference on Artificial Intelligence (AAAI), 2022 
 
