@@ -2,8 +2,8 @@
 title: "Accurate Fine-grained Object Recognition with Structure-driven Relation Graph Networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-07
+excerpt: 'Shijie Wang, Zhihui Wang, Haojie Li, Jianlong Chang, Wanli Ouyang, Qi Tian'
+date: 2023-07-30
 venue: 'International Journal of Computer Vision (IJCV), 2024'
 paperurl: 'https://link.springer.com/article/10.1007/s11263-023-01873-z'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
