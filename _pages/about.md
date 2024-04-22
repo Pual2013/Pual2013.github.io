@@ -12,4 +12,4 @@ Hello! I received the Ph.D. degree from Dalian University of Technology, supervi
 
 My research interests include Computer Vision, Multimedia Information Retrieval and Machine Learning. I have a lot of research work on fine-grained image classification, fine-grained image retrieval and other vision problems. Recently, I have been working on vision/vision-language foundation models, especially the models based on the prompt tuning of pre-trained models.
 
-To know more about me at [Google Scholar](https://scholar.google.com/citations?user=XLziKuQAAAAJ&hl=en). Any discussion is welcome via [E-mail](911971858@qq.com).
+To know more about me at [Google Scholar](https://scholar.google.com/citations?user=XLziKuQAAAAJ&hl=en). Any discussion is welcome via [E-mail](mailto: 911971858@qq.com).
